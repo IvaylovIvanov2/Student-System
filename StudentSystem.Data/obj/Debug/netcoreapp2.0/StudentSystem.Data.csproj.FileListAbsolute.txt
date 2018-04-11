@@ -1,0 +1,9 @@
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp2.0\StudentSystem.Data.deps.json
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp2.0\StudentSystem.Data.dll
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp2.0\StudentSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp2.0\StudentSystem.Data.csproj.CoreCompileInputs.cache
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp2.0\StudentSystem.Data.AssemblyInfoInputs.cache
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp2.0\StudentSystem.Data.AssemblyInfo.cs
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp2.0\StudentSystem.Data.pdb
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp2.0\StudentSystem.Data.dll
+c:\users\ivail\source\repos\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp2.0\StudentSystem.Data.pdb
